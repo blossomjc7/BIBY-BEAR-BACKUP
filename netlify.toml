@@ -1,0 +1,3 @@
+[build]
+  publish = "BB2006"
+  functions = "netlify/functions"

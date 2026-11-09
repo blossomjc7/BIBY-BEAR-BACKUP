@@ -1,0 +1,8 @@
+{
+  "appId": "com.bibybear.app",
+  "appName": "Biby Bear Life Skills",
+  "webDir": "BB2006",
+  "server": {
+    "androidScheme": "https"
+  }
+}
